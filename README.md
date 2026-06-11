@@ -108,7 +108,7 @@ To run the full benchmark instead of the 50-op subset, set `N_OPS = 166` in sect
 
 ---
 
-## Interpreting the results (read this)
+## Interpreting the results
 
 The headline qualitative finding is sound, but three properties of the current numbers mean they should **not** be over-interpreted:
 
